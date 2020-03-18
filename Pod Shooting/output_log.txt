@@ -1,0 +1,10 @@
+Audio devices: Generic Hardware (default: Generic Hardware)
+Player: init engine
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 20.19.15.4549]
+    Renderer: Intel(R) HD Graphics Family
+    Vendor:   Intel
+    VRAM:     -2048 MB
+D3D: VRAM amount suspiciously low (less than 32MB for PS2.0 card)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+           Cleanup player
